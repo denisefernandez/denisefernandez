@@ -1,3 +1,3 @@
-# denisefernandez.github.io
+# Denise Fernandez
 
-#some preliminary info for the webpage
+some preliminary info for the webpage
